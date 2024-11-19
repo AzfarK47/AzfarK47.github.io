@@ -1,0 +1,24 @@
+body {
+    background-image: url('night_sky.gif');
+    color: white;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    color: #ffffff;
+}
+
+div {
+    text-align: left;
+    color: #ffffff;
+    background-color: #2f5fff7f;
+    padding: 16px;
+    margin: 0 25vw;
+    border-radius: 25px;
+    border: 12.5px solid white;
+}
+
+h1 {
+    font-size: 50px;
+}
